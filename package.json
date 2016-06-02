@@ -1,0 +1,32 @@
+{
+  "repository": {
+  },
+  "dependencies": {
+    "babel-brunch": "^6.0.0",
+    "babel-preset-es2015": ">= 1.0",
+    "brunch": "^2.7.7",
+    "clean-css-brunch": ">= 1.0 < 1.8",
+    "css-brunch": ">= 1.0 < 1.8",
+    "html-brunch": "^1.6.1",
+    "javascript-brunch": ">= 1.0 < 1.8",
+    "phoenix": "^1.2.0-rc.0",
+    "phoenix_html": "file:deps/phoenix_html",
+    "sass-brunch": "^2.6.3",
+    "uglify-js-brunch": ">= 1.0 < 1.8",
+    "@angular/common":  "2.0.0-rc.1",
+    "@angular/compiler":  "2.0.0-rc.1",
+    "@angular/core":  "2.0.0-rc.1",
+    "@angular/http":  "2.0.0-rc.1",
+    "@angular/platform-browser":  "2.0.0-rc.1",
+    "@angular/platform-browser-dynamic":  "2.0.0-rc.1",
+    "@angular/router":  "2.0.0-rc.1",
+    "@angular/router-deprecated":  "2.0.0-rc.1",
+    "@angular/upgrade":  "2.0.0-rc.1",
+    "es6-promise": "^3.1.2",
+    "es6-shim": "^0.35.0",
+    "reflect-metadata": "0.1.2",
+    "rxjs": "^5.0.0-beta.6",
+    "zone.js": "^0.6.12",
+    "brunch-typescript": "1.8.3"
+  }
+}
